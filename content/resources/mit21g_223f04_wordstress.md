@@ -2,8 +2,12 @@
 content_type: resource
 description: Study handout. Course Handouts are adapted from Janet Goodwin's AP&TESL
   C213-Phonetics for Second/Foreign Language Education, UCLA.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-223-listening-speaking-and-pronunciation-fall-2004/b98ac05fc4f8254377710b73fc1ae460_MIT21G_223F04_wordstress.pdf
+file: /media/courses/21g-223-listening-speaking-and-pronunciation-fall-2004/b98ac05fc4f8254377710b73fc1ae460_MIT21G_223F04_wordstress.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Word Stress
 uid: b98ac05f-c4f8-2543-7771-0b73fc1ae460
