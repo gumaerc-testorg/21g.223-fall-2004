@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7a8a3317-ed8b-b932-e814-7d4a80963749
 resourcetype: Document
 title: Word Stress
 uid: b98ac05f-c4f8-2543-7771-0b73fc1ae460

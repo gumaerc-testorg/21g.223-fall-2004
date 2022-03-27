@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7a8a3317-ed8b-b932-e814-7d4a80963749
 resourcetype: Document
 title: Discussion Gambit Index Cards
 uid: 7cc81e38-dd79-4864-9fd2-d9bc560c2b44
