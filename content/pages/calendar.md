@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 84c8f1f5-9fb9-c7c2-603b-79117585fb02
 ---
@@ -182,7 +185,7 @@ BP 6 and 7: Money is blood, food, dirty. Bottom is source.
 10
 {{< tdclose >}}
 {{< tdopen >}}
-AE 14 - <ed> and <s> Endings  
+AE 14 - \<ed> and \<s> Endings  
   
 Consonant Clusters
 {{< tdclose >}}

@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: ''
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: 9d85d994-5a82-f659-c49f-29552eed3130
 videos:
@@ -12,7 +16,7 @@ videos:
   website: 21g-223-listening-speaking-and-pronunciation-fall-2004
 ---
 
-During the fall of 2004, four sessions of 21G.224 were recorded especially for OpenCourseWare. In these sessions, Professor Yoo works with students on some of the exercises covered in the [handouts]({{< baseurl >}}/pages/study-materials). The videos capture typical dynamics of the classroom, including the professor's lectures, students working together in small groups, and students participating in a classroom debate. Below are links to the videos.
+During the fall of 2004, four sessions of 21G.224 were recorded especially for OpenCourseWare. In these sessions, Professor Yoo works with students on some of the exercises covered in the {{% resource_link 7a8a3317-ed8b-b932-e814-7d4a80963749 "handouts" %}}. The videos capture typical dynamics of the classroom, including the professor's lectures, students working together in small groups, and students participating in a classroom debate. Below are links to the videos.
 
 {{< video-gallery "9d85d994-5a82-f659-c49f-29552eed3130" >}}
 
