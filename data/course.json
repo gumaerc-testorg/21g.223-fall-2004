@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2004",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -36,6 +37,6 @@
   "learning_resource_types": [
     "Lecture Videos"
   ],
-  "site_uid": "d3be1d92-18f0-48fb-aa4b-6ba1e383c4c9",
+  "site_uid": "142a6c0f-ad20-4f1f-beb0-6c1136123017",
   "title": "Course Metadata"
 }
