@@ -2,7 +2,7 @@
 content_type: resource
 description: Study handout. Course Handouts are adapted from Janet Goodwin's AP&TESL
   C213-Phonetics for Second/Foreign Language Education, UCLA.
-file: /courses/21g-223-listening-speaking-and-pronunciation-fall-2004/aed2e17234a882828a0c4ea3b5934695_MIT21G_223F04_soundsystem.pdf
+file: /ol-ocw-studio-app/courses/21g-223-listening-speaking-and-pronunciation-fall-2004/aed2e17234a882828a0c4ea3b5934695_MIT21G_223F04_soundsystem.pdf
 file_size: 164355
 file_type: application/pdf
 learning_resource_types: []
